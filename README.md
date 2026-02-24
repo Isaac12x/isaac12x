@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Isaac12x/isaac12x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Isaac and here is a list of projects I'm working on (publicly, tons more in private) in software:
 
-Here are some ideas to get you started:
+- [Idea Foundry](https://github.com/Isaac12x/ideafoundry/tree/master): keep your ideas local and digitally.
+- [YT](https://github.com/Isaac12x/yt): a youtube app without ads, sorry youtube.
+- [Policy Acceptance Package](https://github.com/Isaac12x/policy-acceptance-module): policy acceptances are done wrong, this npm package fixes that.
+- [Chat Mock](https://github.com/Isaac12x/chatmock): mock and record chat conversations for marketing purposes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find more free software and my commercial products at:
+- [Fortis & Vincere](https://www.fortisvincere.com): this encompasses everything and then some, including IP, mechanical designs, physical products,etc.
+- [WhatzNew.ai](https://www.whatznew.ai): share product updates and turn them into your #1 growth channel. + Improve internal communication in teams, and rank in chatgpt, claude, etc. All in one, very useful.
+
+
+
+
+
