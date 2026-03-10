@@ -6,6 +6,7 @@ I'm Isaac and here is a list of projects I'm working on (publicly, tons more in 
 - [YT](https://github.com/Isaac12x/yt): a youtube app without ads, sorry youtube.
 - [Policy Acceptance Package](https://github.com/Isaac12x/policy-acceptance-module): policy acceptances are done wrong, this npm package fixes that.
 - [Chat Mock](https://github.com/Isaac12x/chatmock): mock and record chat conversations for marketing purposes.
+- [Clobook](https://github.com/Isaac12x/clobook): keep track of all that happens in Claude/Codex daily using markdown files.
 
 You can find more free software and my commercial products at:
 - [Fortis & Vincere](https://www.fortisvincere.com): this encompasses everything and then some, including IP, mechanical designs, physical products,etc.
