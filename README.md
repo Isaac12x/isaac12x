@@ -12,6 +12,8 @@ You can find more free software and my commercial products at:
 - [Fortis & Vincere](https://www.fortisvincere.com): this encompasses everything and then some, including IP, mechanical designs, physical products,etc.
 - [WhatzNew.ai](https://www.whatznew.ai): share product updates and turn them into your #1 growth channel. + Improve internal communication in teams, and rank in chatgpt, claude, etc. All in one, very useful.
 
+I'm also building a personal agentic system based on openclaw (modded) that is on track to 1000x my output.
+Recordings of live sessions to follow soone on X, follow [@isaac_ar](https://x.com/isaac_ar), and turn notifications on to be notified.
 
 
 
