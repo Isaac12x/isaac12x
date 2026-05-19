@@ -2,7 +2,7 @@
 
 I'm Isaac and here is a list of projects I'm working on (publicly, tons more in private) in software:
 
-- [Idea Foundry](https://github.com/Isaac12x/ideafoundry/tree/master): keep your ideas local and digitally.
+- [Idea Foundry](https://github.com/Isaac12x/ideafoundry/tree/master): if solveforintelligence and your notebooks had a child. Open source idea management, ip management and your ip legacy in case of death.
 - [LaunchControl](https://github.com/Isaac12x/launchd-control); MacOS systemd is a pain - so I built LaunchControl. Manage your startup scripts from a single place with a visual UI and other goodies that make it simple and painless.
 - [YT](https://github.com/Isaac12x/yt): a youtube app without ads, sorry youtube.
 - [Policy Acceptance Package](https://github.com/Isaac12x/policy-acceptance-module): policy acceptances are done wrong, this npm package fixes that.
